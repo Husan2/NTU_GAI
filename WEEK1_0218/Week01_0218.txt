@@ -1,3 +1,0 @@
-# Google Colab
-- 連結：
-- - https://colab.research.google.com/drive/1gNIgU3czeM_yyakykFpk6_UBSod2QFid?usp=sharing
