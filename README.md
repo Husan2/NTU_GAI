@@ -7,9 +7,8 @@
 
 ## 第一週作業 WEEK1_0218
 
-[程式碼目錄](/WEEK1_0218)
+[程式碼目錄](/WEEK1_0218/0218函數圖形.ipynb)
 
 - 日期：2025/02/18
 - 主題：函數圖形
-- 連結：
-  [-俐璇的第一週作業](https://colab.research.google.com/drive/1gNIgU3czeM_yyakykFpk6_UBSod2QFid?usp=sharing)
+- 連結：[俐璇的第一週作業](https://colab.research.google.com/drive/1gNIgU3czeM_yyakykFpk6_UBSod2QFid?usp=sharing)
