@@ -12,3 +12,12 @@
 - 日期：2025/02/18
 - 主題：函數圖形
 - 連結：[俐璇的第一週作業](https://colab.research.google.com/drive/1gNIgU3czeM_yyakykFpk6_UBSod2QFid?usp=sharing)
+
+## 第二週作業 WEEK1_0225
+
+[程式碼目錄](/WEEK2_0225/0225DNN.ipynb)
+
+- 日期：2025/02/25
+- 主題：打造自己的 DNN(全連結)手寫辨識
+- 連結：
+  [-俐璇的第二週作業](https://colab.research.google.com/drive/1c5zAok7IQkd0WCugFMnYlaNeTulDmh1F?usp=drive_link)
