@@ -11,14 +11,24 @@
 
 - 日期：2025/02/18
 - 主題：函數圖形
-- colab 連結：[第一週作業](https://colab.research.google.com/drive/1gNIgU3czeM_yyakykFpk6_UBSod2QFid?usp=sharing)
+- colab 連結：
+  [第一週作業](https://colab.research.google.com/drive/1gNIgU3czeM_yyakykFpk6_UBSod2QFid?usp=sharing)
 
 ## 📌 第二週作業 WEEK1_0225
 
-[程式碼作業請直接點我](/WEEK2_0225/0225DNN.ipynb)
+[程式碼作業請直接點我](/WEEK2_0225/0225作業神經網路.ipynb)
 
 - 日期：2025/02/25
 - 主題：打造自己的 DNN(全連結)手寫辨識
 - colab 連結：
-  [-第二週上課筆記](https://colab.research.google.com/drive/1c5zAok7IQkd0WCugFMnYlaNeTulDmh1F?usp=sharing)
-  ![alt text](/WEEL2_0225/{37F73863-991B-4C17-AE55-AC407BDEBB22}.png)
+- 連結：
+  [-第二週作業](https://colab.research.google.com/drive/1LAK8PpSQ1qoH9e7NRJLalNjHwL30VUTH?usp=sharing)
+  [-上課筆記](https://colab.research.google.com/drive/1c5zAok7IQkd0WCugFMnYlaNeTulDmh1F?usp=sharing)
+
+  在老師範例的筆記中，寫下 3 後，還沒有完全確定這個手寫數字就是 3
+  信心度為 29%認為這是 3
+  ![alt text](/WEEL2_0225/29.png)
+  經過訓練後，完全 100%確定就是 3 ~可喜可賀
+  ![alt text](/WEEL2_0225/100.png)
+  以下是我的準確率截圖
+  ![alt text](/WEEL2_0225/accuracy.png)
