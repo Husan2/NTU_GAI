@@ -21,3 +21,4 @@
 - 主題：打造自己的 DNN(全連結)手寫辨識
 - 連結：
   [-俐璇的第二週作業](https://colab.research.google.com/drive/1c5zAok7IQkd0WCugFMnYlaNeTulDmh1F?usp=drive_link)
+  ![alt text](/WEEL2_0225/{37F73863-991B-4C17-AE55-AC407BDEBB22}.png)
