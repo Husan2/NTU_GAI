@@ -41,6 +41,7 @@
 - 主題：GAN 模型生圖比較
 - colab 連結：
   [-第三週作業](https://colab.research.google.com/drive/1Ix_HMkIznmy2uveFZEFqJ7o4Vc_ahzcv?usp=sharing)
+  ![alt text](/WEEK3_0304/GAN.png)
 
 ## 📌 第四週作業 WEEK4_0311
 
