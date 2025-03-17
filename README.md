@@ -2,7 +2,7 @@
 
 - 姓名：王俐璇
 - 系級：電機系
-- 課程名稱：生成式 AI：文字與圖像生成的原理與實務\_國立臺灣師範大學衛星課程
+- 課程名稱：生成式 AI:文字與圖像生成的原理與實務\_國立臺灣師範大學衛星課程
 - 修課學期：113-2
 
 ## 📌 第一週作業 WEEK1_0218
@@ -21,8 +21,8 @@
 - 日期：2025/02/25
 - 主題：打造自己的 DNN(全連結)手寫辨識
 - colab 連結：
-- 連結：
   [-第二週作業](https://colab.research.google.com/drive/1LAK8PpSQ1qoH9e7NRJLalNjHwL30VUTH?usp=sharing)
+- colab 連結：
   [-上課筆記](https://colab.research.google.com/drive/1c5zAok7IQkd0WCugFMnYlaNeTulDmh1F?usp=sharing)
 
   在老師範例的筆記中，寫下 3 後，還沒有完全確定這個手寫數字就是 3
@@ -35,13 +35,12 @@
 
 ## 📌 第三週作業 WEEK3_0304
 
-[程式碼作業請直接點我](/WEEK3_0304/)
+[程式碼作業請直接點我](/WEEK3_0304/0304GAN.ipynb)
 
 - 日期：2025/03/04
-- 主題：GAN 模型生圖
+- 主題：GAN 模型生圖比較
 - colab 連結：
-- 連結：
-  [-第三週作業]
+  [-第三週作業](https://colab.research.google.com/drive/1Ix_HMkIznmy2uveFZEFqJ7o4Vc_ahzcv?usp=sharing)
 
 ## 📌 第四週作業 WEEK4_0311
 
@@ -51,4 +50,4 @@
 - 主題：建立自己的 benchmarks
 - colab 連結：
 - 連結：
-  [-第三週作業]
+  [-第四週作業]
