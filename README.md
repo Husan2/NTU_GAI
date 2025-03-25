@@ -45,13 +45,11 @@
 
 ## 📌 第四週作業 WEEK4_0311
 
-[程式碼作業請直接點我](/WEEK4_0311/)
+[PDF 作業請直接點我](/WEEK4_0311/作業4.pdf)
 
 - 日期：2025/03/11
 - 主題：建立自己的 benchmarks
 - colab 連結：
   [-ChatGPT 模型：GPT-4.5 版本](https://colab.research.google.com/drive/1Vt4_yNdW4ZZmdMJDZIFoFlhPkp8mfSUR?usp=sharing)
-  [-Claude 模型：Claude-3.5 Haiku 版本]()
-  [-Deepseek]()
-- 連結：
-  [-第四週作業]
+  [-!失敗!Claude 模型：Claude-3.5 Haiku 版本](https://colab.research.google.com/drive/1b1RuWcZX6VakEdJFO3vD0iml30YMqIcZ?usp=sharing)
+  [-Deepseek](https://colab.research.google.com/drive/1TGh74JerU1EYJAYs7QyG4iKbhxKbv0I6?usp=sharing)
