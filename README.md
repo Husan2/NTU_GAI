@@ -50,5 +50,8 @@
 - 日期：2025/03/11
 - 主題：建立自己的 benchmarks
 - colab 連結：
+  [-ChatGPT 模型：GPT-4.5 版本](https://colab.research.google.com/drive/1Vt4_yNdW4ZZmdMJDZIFoFlhPkp8mfSUR?usp=sharing)
+  [-Claude 模型：Claude-3.5 Haiku 版本]()
+  [-Deepseek]()
 - 連結：
   [-第四週作業]
