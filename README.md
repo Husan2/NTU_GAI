@@ -69,7 +69,7 @@
 [作業請直接點我](/WEEK6_0325/0325ChatRobot.ipynb)
 
 - 日期：2025/03/11
-- 主題：用 OpenAI API 打造自己的對話機器人
+- 主題：用 API 打造自己的對話機器人
 - colab 連結：https://colab.research.google.com/drive/11dRGEDE5Y5V_7msNoNxzqPA4wHJP_6-6?usp=sharing
 
 - 本週作業的目標是透過 **Groq API** 打造一個具有明確人設的智慧對話機器人。
