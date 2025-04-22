@@ -140,4 +140,4 @@
 
 - 日期：2025/04/08
 - 主題：實作 RAG 系統
-- colab 連結：
+- colab 連結：https://colab.research.google.com/drive/19Jxpw4fS0-CH_fdtPvFBRPZzC7F0Ar5C?usp=sharing
