@@ -1,0 +1,11 @@
+打造自己的圖像生成Web App!
+
+(利用hugging face內的SD1.5模型進行文字生圖。)
+
+作業說明：
+
+選定一個合適的模型，試著生出各種圖片。
+修改prompt，甚至可以推薦prompts給使用者。
+其餘延伸由同學自由發揮。
+可以繳交colab連結，也可以繳交PDF檔。
+模型也可以至https://civitai.com/models搜尋，找到心儀的模型後再到hugging face中搜尋。(找不到或許在hugging face上沒有)

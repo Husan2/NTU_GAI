@@ -1,0 +1,8 @@
+AI Agents：打造你專屬的超級代理人。
+
+(Planning模式：CoT改寫版 / Reflection模式)
+
+參考老師【Demo07a】或【Demo07c】程式碼，修改成自己的樣子。
+(Planning模式) 思考一下自己的原始任務是什麼，並想一下怎麼去計劃自己的二階段推理過程。
+(Reflection模式) 思考一下自己的原始任務是什麼，並想一下怎麼去安排Reflection的任務設計。
+Gradio展示。
