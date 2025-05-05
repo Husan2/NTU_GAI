@@ -260,13 +260,18 @@
 
 > [DEMO 截圖照片檔案(有兩張 02)](/WEEK09_0415/report02.png)<br>
 
-## 📌 第十週作業 WEEK010_0422
+## 📌 第十週作業 WEEK10_0422
 
-[作業請直接點我](/WEEK010_0422)
+[作業請直接點我](/WEEK10_0422/第十週作業MicrosoftBingCreate.pdf)
 
 - 日期：2025/04/22
 - 主題：利用 Bing 進行文字生圖。(Diffusion modle)
-- colab 連結：
+- 使用 PDF 交作業
+
+- 🎨 創作風格說明：<br>
+  本次作業選用 手繪水彩風格（hand-drawn watercolor illustration style） 作為主要視覺語言，搭配 柔和粉彩色系（soft pastel tones），希望傳達一種溫暖、靜謐、富有生活感的故事氛圍，所有圖像皆以 Microsoft Bing Create 所提供的生成式 AI 為工具進行創作。
+
+[Bing 創造的貓們](/WEEK10_0422/cats.png)
 
 ## 📌 第十一週作業 WEEK11_0429
 
